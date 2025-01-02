@@ -1,0 +1,7 @@
+*
+!static
+!simple_drf
+!templates
+!manage.py
+!pyproject.toml
+!uv.lock
